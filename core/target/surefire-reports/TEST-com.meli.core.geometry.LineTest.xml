@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.meli.core.geometry.LineTest" time="0.015" tests="7" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="user.dir" value="/home/diego/forecast/core"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.home" value="/home/diego/.sdkman/candidates/java/7.0.201-zulu/jre"/>
+    <property name="user.name" value="diego"/>
+    <property name="sun.boot.library.path" value="/home/diego/.sdkman/candidates/java/7.0.201-zulu/jre/lib/amd64"/>
+    <property name="user.home" value="/home/diego"/>
+    <property name="localRepository" value="/home/diego/.m2/repository"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="user.language" value="en"/>
+    <property name="java.vendor.url.bug" value="http://www.azulsystems.com/support/"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.class.path" value="/home/diego/forecast/core/target/test-classes:/home/diego/forecast/core/target/classes:/home/diego/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/diego/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.vm.vendor" value="Azul Systems, Inc."/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="sun.java.command" value="/home/diego/forecast/core/target/surefire/surefirebooter1736007566306719153.jar /home/diego/forecast/core/target/surefire 2019-01-08T21-29-51_789-jvmRun1 surefire6564134343750405591tmp surefire_08899276627990719415tmp"/>
+    <property name="user.timezone" value=""/>
+    <property name="surefire.test.class.path" value="/home/diego/forecast/core/target/test-classes:/home/diego/forecast/core/target/classes:/home/diego/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/diego/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.runtime.version" value="1.7.0_201-b02"/>
+    <property name="java.vendor" value="Azul Systems, Inc."/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vendor.url" value="http://www.azulsystems.com/"/>
+    <property name="sun.boot.class.path" value="/home/diego/.sdkman/candidates/java/7.0.201-zulu/jre/lib/resources.jar:/home/diego/.sdkman/candidates/java/7.0.201-zulu/jre/lib/rt.jar:/home/diego/.sdkman/candidates/java/7.0.201-zulu/jre/lib/sunrsasign.jar:/home/diego/.sdkman/candidates/java/7.0.201-zulu/jre/lib/jsse.jar:/home/diego/.sdkman/candidates/java/7.0.201-zulu/jre/lib/jce.jar:/home/diego/.sdkman/candidates/java/7.0.201-zulu/jre/lib/charsets.jar:/home/diego/.sdkman/candidates/java/7.0.201-zulu/jre/lib/rhino.jar:/home/diego/.sdkman/candidates/java/7.0.201-zulu/jre/lib/jfr.jar:/home/diego/.sdkman/candidates/java/7.0.201-zulu/jre/classes"/>
+    <property name="surefire.real.class.path" value="/home/diego/forecast/core/target/surefire/surefirebooter1736007566306719153.jar"/>
+    <property name="java.endorsed.dirs" value="/home/diego/.sdkman/candidates/java/7.0.201-zulu/jre/lib/endorsed"/>
+    <property name="sun.desktop" value="gnome"/>
+    <property name="java.vm.version" value="24.201-b02"/>
+    <property name="os.name" value="Linux"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="java.version" value="1.7.0_201"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.ext.dirs" value="/home/diego/.sdkman/candidates/java/7.0.201-zulu/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="os.version" value="4.4.0-78-generic"/>
+    <property name="basedir" value="/home/diego/forecast/core"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="user.country" value="US"/>
+  </properties>
+  <testcase name="verticalLines" classname="com.meli.core.geometry.LineTest" time="0.003"/>
+  <testcase name="yZeroAlign" classname="com.meli.core.geometry.LineTest" time="0"/>
+  <testcase name="xZeroAlign" classname="com.meli.core.geometry.LineTest" time="0"/>
+  <testcase name="zeroAlign" classname="com.meli.core.geometry.LineTest" time="0"/>
+  <testcase name="align" classname="com.meli.core.geometry.LineTest" time="0"/>
+  <testcase name="horizontalLines" classname="com.meli.core.geometry.LineTest" time="0.001"/>
+  <testcase name="notAlign" classname="com.meli.core.geometry.LineTest" time="0"/>
+</testsuite>

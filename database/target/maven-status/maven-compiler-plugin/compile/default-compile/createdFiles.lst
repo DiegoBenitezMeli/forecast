@@ -1,0 +1,8 @@
+com/meli/database/controller/PlanetController.class
+com/meli/database/repository/PlanetRepository.class
+com/meli/utils/ObjectConverter.class
+com/meli/database/repository/ForecastRepository.class
+com/meli/database/entity/Forecast.class
+com/meli/database/entity/Planet.class
+com/meli/database/entity/QuantityReport.class
+com/meli/database/DatabaseApplication.class

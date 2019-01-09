@@ -1,0 +1,9 @@
+/home/diego/forecast/core/src/main/java/com/meli/core/geometry/Triangle.java
+/home/diego/forecast/core/src/main/java/com/meli/core/solar/system/Sun.java
+/home/diego/forecast/core/src/main/java/com/meli/core/solar/system/Planet.java
+/home/diego/forecast/core/src/main/java/com/meli/core/solar/system/Weather.java
+/home/diego/forecast/core/src/main/java/com/meli/core/geometry/Point.java
+/home/diego/forecast/core/src/main/java/com/meli/core/forecast/strategy/ForecastStrategy.java
+/home/diego/forecast/core/src/main/java/com/meli/core/geometry/Line.java
+/home/diego/forecast/core/src/main/java/com/meli/core/forecast/strategy/ForecastContext.java
+/home/diego/forecast/core/src/main/java/com/meli/core/forecast/strategy/MeliForecastStrategy.java

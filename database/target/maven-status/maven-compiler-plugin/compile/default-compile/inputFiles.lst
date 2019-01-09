@@ -1,0 +1,8 @@
+/home/diego/forecast/database/src/main/java/com/meli/database/repository/ForecastRepository.java
+/home/diego/forecast/database/src/main/java/com/meli/database/entity/QuantityReport.java
+/home/diego/forecast/database/src/main/java/com/meli/database/DatabaseApplication.java
+/home/diego/forecast/database/src/main/java/com/meli/database/controller/PlanetController.java
+/home/diego/forecast/database/src/main/java/com/meli/database/repository/PlanetRepository.java
+/home/diego/forecast/database/src/main/java/com/meli/database/entity/Forecast.java
+/home/diego/forecast/database/src/main/java/com/meli/database/entity/Planet.java
+/home/diego/forecast/database/src/main/java/com/meli/utils/ObjectConverter.java

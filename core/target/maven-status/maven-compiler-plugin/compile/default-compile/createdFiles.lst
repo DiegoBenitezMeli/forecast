@@ -1,0 +1,12 @@
+com/meli/core/forecast/strategy/MeliForecastStrategy$Period.class
+com/meli/core/forecast/strategy/ForecastContext.class
+com/meli/core/geometry/Triangle.class
+com/meli/core/solar/system/Planet$Builder.class
+com/meli/core/solar/system/Weather.class
+com/meli/core/solar/system/Sun.class
+com/meli/core/forecast/strategy/ForecastStrategy.class
+com/meli/core/solar/system/Planet.class
+com/meli/core/solar/system/Planet$Sence.class
+com/meli/core/geometry/Point.class
+com/meli/core/geometry/Line.class
+com/meli/core/forecast/strategy/MeliForecastStrategy.class
